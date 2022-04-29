@@ -1,0 +1,1 @@
+CREATE nom 'jordan'@ 'localhost' IDENTIFIED BY '1ksable'

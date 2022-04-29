@@ -1,0 +1,599 @@
+# Translation of Themes - SpicePress in French (France)
+# This file is distributed under the same license as the Themes - SpicePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-09 09:05:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - SpicePress\n"
+
+#. Description of the theme
+msgid "SpicePress is a responsive and fully customizable business template. It is a perfect solution for creative and corporate websites, restaurants, wedding planners, law firms, finance, consulting, travel, photography, recipes, design, sport/medical shops, startups, online agencies, portfolios, E-commerce (WooCommerce), and freelancers. The advanced admin panel will enable you to personalize SpicePress without any technical information. SpicePress is translation ready and supports popular plugins like WPML, Polylang, WooCommerce and Contact Form 7. Check out also SpicePress PRO, the premium version, which has a lot more to offer."
+msgstr "SpicePress est un thèmes d'entreprise réactif et entièrement personnalisable. C’est une solution parfaite pour des sites créatifs et corporatifs, des restaurants, des planificateurs de mariages, des cabinets d’avocats, de finance, de conseils, de voyages, de photographie, de recettes, de design, des magasins de sport/médecine, des start-up, des agences en ligne. Le panneau d’administration avancé vous permettra de personnaliser SpicePress sans aucune information technique. SpicePress est traduit et prend en charge les extensions populaires comme WPML, Polylang, WooCommerce et Contact Form 7. Découvrez également SpicePress Pro, la version Premium, qui a beaucoup plus à offrir."
+
+#. Theme Name of the theme
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "SpicePress"
+msgstr "SpicePress"
+
+#: functions/customizer/customizer_general_settings.php:247
+msgid "Disable animation effect in desktop"
+msgstr "Désactiver l’effet d’animations sur les ordinateurs de bureau."
+
+#: functions/customizer/customizer_general_settings.php:235
+msgid "Animation Settings"
+msgstr "Réglages d’animation"
+
+#. Template Name of the theme
+msgid "Contact page"
+msgstr "Page de contact"
+
+#. Template Name of the theme
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: functions/widgets/sidebars.php:61 functions/widgets/sidebars.php:63
+msgid "Contact template sidebar"
+msgstr "Colonne latérale de contact"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:5
+msgid "Archive page title"
+msgstr "Titre de la page d’archive"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:14
+#: functions/customizer/customizer_bredcrumbs_settings.php:20
+#: functions/template-tags.php:83
+msgid "Archive"
+msgstr "Archive"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:28
+#: functions/customizer/customizer_bredcrumbs_settings.php:34
+#: functions/template-tags.php:101
+msgid "Category"
+msgstr "Catégorie"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:48
+msgid "Author"
+msgstr "Auteur"
+
+#: searchform.php:3 functions/customizer/customizer_bredcrumbs_settings.php:77
+msgid "Search"
+msgstr "Rechercher"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:85
+#: functions/customizer/customizer_bredcrumbs_settings.php:91
+#: functions/template-tags.php:143
+msgid "404"
+msgstr "404"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:100
+#: functions/customizer/customizer_bredcrumbs_settings.php:106
+#: functions/template-tags.php:119
+msgid "Shop"
+msgstr "Boutique"
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:14
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: 404.php:16
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: 404.php:17
+msgid "Go Back"
+msgstr "Retour"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Saisissez le mot de passe pour lire les commentaires."
+
+#: comments.php:18
+msgid "Reply"
+msgstr "Répondre"
+
+#: comments.php:27
+msgid "Posted on"
+msgstr "Publié le"
+
+#: comments.php:30
+msgid "Edit"
+msgstr "Modifier"
+
+#: comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: comments.php:52
+msgid "No comments so far"
+msgstr "Aucun commentaire pour l’instant"
+
+#: comments.php:52
+msgid "1 comment so far"
+msgstr "1 commentaire pour l’instant"
+
+#: comments.php:52
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: comments.php:60
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:67 comments.php:113
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:79
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:80
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:92
+msgid "Message"
+msgstr "Message"
+
+#: comments.php:93
+msgid "Logged in as"
+msgstr "Connecté·e en tant que"
+
+#: comments.php:93
+msgid "Logout of this account"
+msgstr "Se déconnecter de ce compte"
+
+#: comments.php:93
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: comments.php:95
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+#: template/template-page-full-width.php:29 content.php:34 content-page.php:24
+#: index-news.php:60 functions/template-tags.php:168
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: index.php:32 index.php:41 functions/breadcrumbs/breadcrumbs.php:52
+#: functions/breadcrumbs/breadcrumbs.php:55
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Accueil"
+
+#: functions/breadcrumbs/breadcrumbs.php:58
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#: functions/breadcrumbs/breadcrumbs.php:62
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:68
+#: functions/breadcrumbs/breadcrumbs.php:73
+msgid "Y"
+msgstr "Y"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+msgid "m"
+msgstr "m"
+
+#: functions/breadcrumbs/breadcrumbs.php:63
+#: functions/breadcrumbs/breadcrumbs.php:69
+msgid "F"
+msgstr "F"
+
+#: functions/breadcrumbs/breadcrumbs.php:64
+msgid "d"
+msgstr "j"
+
+#: functions/breadcrumbs/breadcrumbs.php:107
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: functions/customizer/customizer-pro.php:12
+msgid "UPGRADE TO PRO"
+msgstr "PASSEZ EN PRO"
+
+#: functions/customizer/customizer-pro.php:19
+msgid "Upgrade to Pro"
+msgstr "Passez à la version Pro"
+
+#: functions/customizer/customizer_general_settings.php:153
+msgid "General settings"
+msgstr "Réglages généraux"
+
+#: functions/customizer/customizer_general_settings.php:267
+msgid "Footer copyright settings"
+msgstr "Réglages du droit d’auteur du pied de page"
+
+#: functions/customizer/customizer_general_settings.php:282
+msgid "Copyright text"
+msgstr "Texte du droit d’auteur"
+
+#: admin/inc/class-spicethemes-about-page.php:312
+#: functions/customizer/customizer_recommended_plugin.php:16
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: functions/customizer/customizer_recommended_plugin.php:17
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: functions/customizer/customizer_recommended_plugin.php:18
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: class-tgm-plugin-activation.php:2726
+#: admin/inc/class-spicethemes-about-page.php:429
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Activer"
+
+#: functions/customizer/customizer_recommended_plugin.php:20
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: functions/customizer/customizer_sections_settings.php:17
+msgid "Homepage section settings"
+msgstr "Réglages de section de page d’accueil"
+
+#: functions/customizer/customizer_sections_settings.php:22
+msgid "Latest News settings"
+msgstr "Réglages des dernières nouvelles"
+
+#: functions/customizer/customizer_sections_settings.php:31
+msgid "Enable Home News section"
+msgstr "Activer la section des nouveautés sur l’accueil"
+
+#: functions/customizer/customizer_sections_settings.php:35
+msgid "ON"
+msgstr "OUI"
+
+#: functions/customizer/customizer_sections_settings.php:36
+msgid "OFF"
+msgstr "NON"
+
+#: functions/customizer/customizer_sections_settings.php:48
+msgid "Title"
+msgstr "Titre"
+
+#: functions/customizer/customizer_sections_settings.php:60
+msgid "Description"
+msgstr "Description"
+
+#: functions/customizer/customizer_sections_settings.php:78
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "Activer les valeurs métas d’articles comme le nom d’auteur, la date, les commentaires, etc."
+
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: admin/inc/class-spicethemes-about-page.php:74
+#: functions/customizer-notify/spicepress-customizer-notify.php:111
+msgid "Activating"
+msgstr "Activation"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "État"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Sections de page d’accueil"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Vous trouverez un certain nombre de sections sur la page d’accueil."
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "Support des modèles de page"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "SpicePress includes various page templates."
+msgstr "Le thème SpicePress inclus différents modèles de page."
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "Options de mise en page"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "SpicePress supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "SpicePress contient des options de mise en page encadrée ainsi qu’en pleine largeur. Pour choisir celle que vous préférez (et basculer entre les deux) allez dans Apparence > Personnaliser."
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Compatibilité mobile"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Mise en page responsive sur tous les périphériques"
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "Support de formulaire de contact"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "Ce thème prend en charge l’extension Contact Form 7. Utilisez-la pour construire votre formulaire de contact."
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Mulitple Color Schemes"
+msgstr "Nombreux jeux de couleurs"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Enjoy any of the 7 preset color schemes, or create your own, without adding any code."
+msgstr "Appréciez l’utilisation de 7 jeux de couleurs prédéfinis. Vous pouvez également créer vos propres jeux sans ajouter de code."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Affichez l’emplacement de votre boutique et de votre entreprise sur votre site en utilisant Google Maps."
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Présenter votre collection de projet/portfolio avec des mises en page en 2, 3 et 4 colonnes. Vous pouvez aussi afficher vos projets/portfolios par catégorie."
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "About Us Page"
+msgstr "Page À propos de nous"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr "Afficher les membres de votre équipe et du contenu personnalisé via l’éditeur WordPress."
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Services Page"
+msgstr "Page Services"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Show all your services in a single place."
+msgstr "Afficher tous vos services à un seul endroit."
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show user feedback on the Homepage."
+msgstr "Affichez vos retours client sur la page d’accueil."
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "WPML Support"
+msgstr "Prise en charge de WPML"
+
+#: admin/tab-pages/free_vs_pro.php:66
+msgid "You can use WPML to make your website multilingual."
+msgstr "Vous pouvez utiliser WPML pour rendre votre site multilingue."
+
+#: admin/tab-pages/free_vs_pro.php:69
+msgid "Support Forum"
+msgstr "Forum de support"
+
+#: admin/tab-pages/free_vs_pro.php:70
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Obtenez un support instantané 24/7 sur notre forum."
+
+#: admin/tab-pages/free_vs_pro.php:90
+msgid "Slider [Static Image], Services [3 Services], Portfolio [3 Portfolio], Testimonial, Latest News"
+msgstr "Diaporama [image statique], Services [3 services], Portfolio [3 portfolios], Témoignages, Dernières nouvelles"
+
+#: admin/tab-pages/free_vs_pro.php:95
+msgid "Business Template and Full-Width Template"
+msgstr "Modèle d’entreprise et modèle en pleine largeur"
+
+#: admin/tab-pages/free_vs_pro.php:96
+msgid "Wide Layout"
+msgstr "Mise en page large"
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "On WordPress.org Support Forum"
+msgstr "Sur le forum de support WordPress.org"
+
+#: admin/tab-pages/free_vs_pro.php:122
+msgid "SpicePress PRO"
+msgstr "SpicePress PRO"
+
+#: admin/tab-pages/free_vs_pro.php:127
+msgid "Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], Latest News, Clients, Testimonials, Custom Widgets"
+msgstr "En-tête haut, Diaporama [diapositives illimitées], Services [illimités], Portfolio [illimités], Dernières nouvelles, Clients, Témoignages et widgets personnalisés."
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "À propos, Services, Portfolio, Colonnes latérales de blog droite et gauche, Blog en pleine largeur, Page de contact et bien plus encore."
+
+#: admin/tab-pages/free_vs_pro.php:130
+msgid "Wide layout & Boxed Layout"
+msgstr "Mise en page large et encadrée"
+
+#: admin/tab-pages/free_vs_pro.php:143
+msgid "Premium Support Forum"
+msgstr "Forum de support premium"
+
+#: admin/tab-pages/free_vs_pro.php:153
+msgid "Get SpicePress PRO Now!"
+msgstr "Obtenez SpicePress PRO maintenant !"
+
+#: admin/tab-pages/getting-started.php:14
+msgid "About the SpicePress theme"
+msgstr "À propos du thème SpicePress"
+
+#: admin/tab-pages/getting-started.php:22
+msgid "You can use this theme for any type of activity. SpicePress is compatible with popular plugins like WPML and Polylang. To help you create an effective and impactful web presence, SpicePress has predefined versions of many pages: Contact, Services, Portfolios, About Us and Blog."
+msgstr "Vous pouvez utiliser ce thème pour tout type d’activité. SpicePress est compatible avec les extensions les plus populaires comme WPML et Polylang. Pour vous aider à créer une présence efficace et impactante, SpicePress possède des versions prédéfinies de plusieurs pages. Contact, services, portfolio, à propos de nous et blog."
+
+#: admin/inc/class-spicethemes-about-page.php:307
+#: admin/tab-pages/getting-started.php:25
+msgid "Getting Started"
+msgstr "Pour commencer"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "Pour tirer pleinement avantage de toutes les fonctionnalités que ce thème offre, veuillez installer et activer l’extension SpiceBox. Allez dans Personnaliser et installez l’extension SpiceBox."
+
+#: admin/tab-pages/getting-started.php:20
+msgid "This theme is ideal for creating corporate and business websites. The PRO version has tons of features: a homepage with many sections where you can feature unlimited sliders, portfolios, user reviews, latest news, services, calls to action and much more. Each section in the HomePage template is carefully designed to fit to all business requirements."
+msgstr "Ce thème est idéal pour créer des sites corporatifs et d’entreprise. La version PRO possède de nombreuses fonctionnalités : une page d’accueil avec plusieurs sections où vous pouvez mettre en avant des diaporamas illimités, des portfolios, des avis d’utilisateur, des nouveautés, des services, des appels à l’action et bien plus encore. Chaque section dans le modèle de la page d’accueil est conçue avec soin pour s’adapter aux exigences de toutes les entreprises."
+
+#: admin/tab-pages/getting-started.php:32
+msgid "Go to the Customizer"
+msgstr "Aller dans la personnalisation"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "SpicePress theme"
+msgstr "Thème SpicePress"
+
+#: admin/tab-pages/getting-started.php:46
+msgid "Useful Links"
+msgstr "Liens utiles"
+
+#: admin/tab-pages/getting-started.php:53
+msgid "Lite Demo"
+msgstr "Démo Lite"
+
+#: admin/tab-pages/getting-started.php:57
+msgid "PRO Demo"
+msgstr "Démo PRO"
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Your feedback is valuable to us"
+msgstr "Votre avis nous est précieux"
+
+#: admin/tab-pages/getting-started.php:71
+msgid "Premium Theme Support"
+msgstr "Support du thème premium"
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Premium Theme Details"
+msgstr "Détails du thème premium"
+
+#: admin/inc/class-spicethemes-about-page.php:114
+msgid "View Theme Info"
+msgstr "Voir les infos du thème"
+
+#: functions/template-tags.php:26
+msgid "By"
+msgstr "Par "
+
+#: functions/template-tags.php:32
+msgid "in"
+msgstr "dans"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:56
+#: functions/customizer/customizer_bredcrumbs_settings.php:62
+#: functions/template-tags.php:36 functions/template-tags.php:113
+msgid "Tag"
+msgstr "Étiquette"
+
+#: functions/template-tags.php:89 functions/template-tags.php:93
+#: functions/template-tags.php:97 functions/template-tags.php:103
+#: functions/template-tags.php:109 functions/template-tags.php:115
+#: functions/template-tags.php:121 functions/template-tags.php:137
+#: functions/template-tags.php:147
+msgid "%1$s %2$s"
+msgstr "%1$s dans %2$s"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:42
+#: functions/template-tags.php:107
+msgid "All posts by"
+msgstr "Tous les articles par"
+
+#: functions/customizer/customizer_bredcrumbs_settings.php:71
+#: functions/template-tags.php:133
+msgid "Search results for"
+msgstr "Résultats de recherche pour"
+
+#: functions/template-tags.php:177
+msgid "previous page"
+msgstr "page précédente"
+
+#: functions/template-tags.php:177
+msgid "next page"
+msgstr "page suivante"
+
+#: functions/widgets/sidebars.php:8 functions/widgets/sidebars.php:10
+msgid "Sidebar widget area"
+msgstr "Zone de widgets de colonne latérale"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget left area"
+msgstr "Zone de widgets gauche de pied de page"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Footer widget central area"
+msgstr "Zone de widgets centrale du pied de page"
+
+#: functions/widgets/sidebars.php:38 functions/widgets/sidebars.php:40
+msgid "Footer widget right area"
+msgstr "Zone de widgets droite de pied de page"
+
+#: functions/widgets/sidebars.php:50 functions/widgets/sidebars.php:52
+msgid "WooCommerce sidebar widget area"
+msgstr "Zone de widgets de colonne WooCommerce"
+
+#: functions.php:67
+msgid "Page"
+msgstr "Page"
+
+#: functions.php:113
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: header/header-navbar.php:27 header/header-navbar.php:38
+#: header/header-navbar.php:69 header/header-navbar.php:116
+msgid "Toggle navigation"
+msgstr "Afficher/masquer la navigation"
+
+#: search.php:29
+msgid "Nothing found"
+msgstr "Rien n’a été trouvé"
+
+#: search.php:30
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: searchform.php:2
+msgid "Search here"
+msgstr "Rechercher ici"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Modèle d’entreprise"
+
+#. Template Name of the theme
+msgid "Full-width page"
+msgstr "Page en pleine largeur"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/spicepress-wordpress-theme/"
+msgstr "https://spicethemes.com/spicepress-wordpress-theme/"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"

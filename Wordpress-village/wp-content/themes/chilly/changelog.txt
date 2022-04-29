@@ -1,0 +1,67 @@
+== Changelog ==
+
+= 1.3.4 ==
+1. Customizer console issue fixed.
+2. Changed screenshot image
+
+= 1.3.3 ==
+1. Added code for custom color in functions.php.
+
+= 1.3.2 ==
+1. Fixed Banner issue.
+
+= 1.3.1 ==
+1. Added "Requires at least", "Tested up to", "Requires PHP fields" in the style.css.
+
+= 1.3 ==
+1. Implement the Accessibility including skip to content and keyboard navigation.
+2. Changed the screenshot image.
+3. Corrected the admin notice.
+4. Fixed all the other issues.
+
+= 1.2.1 ==
+1. Update Screenshot
+
+= 1.2 ==
+1. Slider Meta Setting Feature in Page and Post
+2. Hide/Show Banner Customizer Setting for all pages/templates, 404, serach, archive pages
+
+= 1.1.7.4 ==
+1. Added documentation link in customizer for slider section.
+
+= 1.1.7.3 ==
+1. Fixed next page pagination issue on page .
+
+= 1.1.7.2 ==
+1. Fixed menu issue.
+
+= 1.1.7.1 ==
+1. Fixed escaping issues.
+
+= 1.1.7 ==
+1. Added Recommended plugin tab.
+
+= 1.1.6 ==
+1. Update String.
+
+= 1.1.5 ==
+1. Update About Page theme description.
+
+= 1.1.4 ==
+1. Added Theme About Page.
+
+= 1.1.3 ==
+1. Fixed Read more tag styling issue 
+2. Fixed single.php content issue.
+
+= 1.1.2 ==
+1. Fixed styling issue
+
+= 1.1.1 ==
+1. Fixed theme review issue
+
+= 1.1 ==
+1. Fixed theme review issue
+
+= 1.0 ==
+1. Released

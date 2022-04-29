@@ -1,0 +1,347 @@
+
+
+.container-fluid{
+    background-image: url("../images/background.png");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container{
+  
+    background-color: rgb(230, 230, 230);
+  background-repeat: no-repeat;
+  padding: 0;
+  padding-bottom: 40px;
+}
+
+
+/* DEBUT DE LA NAV (en-tête) */
+
+ #logo{
+    position: absolute;
+
+
+    
+}
+
+/* *************************************************/
+
+/* Menu 1 */
+.menu1{
+    background-color: lightgrey;
+    border: 5px  solid lightgrey;
+    width: 100%;
+    text-align: right;
+    padding: 0;
+}
+.menu1 a{
+    margin-left: 60px;
+    /* background-color: magenta; */
+    text-decoration: none;
+    color: midnightblue;
+    font-weight: bolder;
+}
+
+/* FIN DU Menu 1 */
+
+
+/* *************************************************/
+
+
+/* Menu 2 */
+.menu2{
+    background-color: rgb(114, 106, 106);
+    border: 5px  solid rgb(114, 106, 106);
+    width: 100%;
+    text-align: center;
+    padding: 0;
+ 
+}
+
+.menu2 a{
+    margin-left: 120px;
+    /* background-color: magenta; */
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 20pt;
+}
+
+
+
+/* FIN DU Menu 2 */
+
+
+/* *************************************************/
+
+
+
+/* Menu 3 */
+.menu3{
+    background-color: black;
+    border: 5px  solid black;
+    width: 100%;
+    text-align: right;
+    
+}
+
+.menu3 a{
+    margin-left: 35px;
+    /* background-color: magenta; */
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 15pt;
+}
+
+
+
+/* FIN DU Menu 3 */
+
+/* *************************************************/
+
+
+/* FIN DE LA NAV (en-tête) */
+
+#moove{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+#moove a{
+    
+    margin-left: 50px;
+}
+
+#moove .button{
+    
+   position: absolute;
+   margin-top: 20px;
+   border: 2px solid white;
+   width: 160px; 
+}
+
+
+
+.button a{
+    color: wheat;
+    font-weight: bolder;
+}
+
+
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    color: midnightblue;
+}
+
+ .lienscat{
+    
+    text-align: center;
+}
+.lienscat IMG{
+ height: 202px;
+}
+
+.lienscat2{
+    text-align: center;
+}
+
+.lienscat2 IMG{
+    height: 199px;
+   }
+
+   #ventehome{
+       margin-left: 20px;
+   }
+
+   #footer1{
+     text-align: center;
+     padding-top: 50px;
+    
+    
+   }
+   #footer2{
+    border-radius: 13%;
+   height: 851px;
+   
+  }
+/*************Media Responsive ***************/
+
+/* Media 812 px */
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+
+
+    .container{
+        width: 90%;
+    }
+/********logo******/
+ #logo{
+     height: 50px;
+ }
+
+/***** MENU 1 ********/
+
+.menu1 a{
+     margin-left:2px;
+     font-size: 10pt;
+    
+    
+ }
+
+  #color:hover{
+    color: white;
+    background-color: midnightblue;
+   
+   
+}
+
+ #panier{
+     
+   height: 20px;
+   
+}
+
+#pays{
+    height: 20px;
+ 
+}
+
+
+/***** Menu 2 ********/
+
+
+.menu2 a{
+    
+    margin-left: 30px;
+}
+
+.menu3 a{
+    margin-left:30px;
+}
+
+
+/**** debut body ****/
+#moove{
+ margin-top: 20px;
+ margin-left: 2px;
+ margin-right: 2px;
+}
+
+#guitarepub{
+    height: auto;
+}
+
+#prix{
+    height: 300px;
+    margin-top: 12px;
+    margin-left: 50px;
+}
+.button{
+    border: 2px solid white;
+    width: 160px;
+  
+    
+  
+    
+}
+
+.button a{
+    color: wheat;
+    font-weight: bolder;
+}
+
+
+.lienscat img{
+  width: 100%;
+  
+}
+
+.lienscat2 img{
+    width: 100%;
+    
+  }
+
+
+  #ventehome img{
+  height: 90px;
+  
+  }
+
+  #nospart img{
+      height: 200px;
+  }
+    }
+
+    /* FIN DE MEDIA 812PX */
+
+/* -**************************************************- */
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    
+    
+    .menu1{
+        text-align: right;
+    }
+
+     
+    .menu1 a{
+        margin-left: 20px;
+         }
+    
+    #logo{
+            height: 80px;
+        }
+
+        #moove{
+
+            margin: 20px;
+        }
+        #prix{
+            margin-top: 20px;
+            margin-left:  25%;
+            height: 300px;
+        }
+        .container{
+            width: 80%;
+        }
+
+        .lienscat img{
+            width: 100%;
+        }
+
+        .lienscat2 img{
+            width: 100%;
+        }
+
+        #ventehome img{
+            height: 180px;
+        }
+    }
+
+    #produits{
+        margin :150px;
+    }
+
+    .containerform{
+        margin: 150px;
+    }
+
+        .formmodif{
+            margin: 150px;
+            
+        }
+    .center{
+        margin-left: 400px;
+       
+    }
+
+.conexion{
+    margin-left: 400px;
+}
+
